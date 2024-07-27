@@ -30,11 +30,13 @@ jobs:
           cd multimc
           zip -r 1-21.zip instance.cfg mmc-pack.json server-icon.png .minecraft/
 
-      - name: Upload to Release Action
-        uses: Shopify/upload-to-release@v2.0.0
+      - name: Create artifact
+        uses: actions/upload-artifact@v4
         with:
           name: 1-21.zip
           # Path to the file to upload
-          path: multimc/1-21.zip
-          # secrets.GITHUB_TOKEN
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          path: |
+            multimc/instance.cfg
+            multimc/mmc-pack.json
+            multimc/server-icon.png
+            multimc/.minecraft/
