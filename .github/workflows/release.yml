@@ -12,7 +12,17 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v3
-    - uses: ncipollo/release-action@v1
-      with:
-        artifacts: "btdevcraft.zip"
+      - uses: actions/checkout@v3
+      - name: Create artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: btdevcraft
+          # Path to the file to upload
+          path: |
+            multimc/instance.cfg
+            multimc/mmc-pack.json
+            multimc/server-icon.png
+            multimc/.minecraft/
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "btdevcraft.zip"
