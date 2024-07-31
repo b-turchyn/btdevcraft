@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/itemscroller.pw.toml"
 hash = "c07a038cfc51360616c8de3697b7850fc1a84519d3b16194739b881b6c9cf9d6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
