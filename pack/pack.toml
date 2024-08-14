@@ -1,12 +1,12 @@
 name = "BTDevcraft 3.1"
 author = "BT"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e965036505a505d0b01698ba7791706dc0a9d0b53e4ecd9f04534b0f1e2146a9"
+hash = "d65e4de0e00926ef2f71a71649dc0367c2fbd1ec16680dc3e464d803a1aebe07"
 
 [versions]
 fabric = "0.16.0"

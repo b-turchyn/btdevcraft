@@ -111,6 +111,11 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/peek.pw.toml"
+hash = "13b28c19d20c56007c4dccebca4361c4b04a7f3c3ec8fc41d493971375f42603"
+metafile = true
+
+[[files]]
 file = "mods/pl3xmap.pw.toml"
 hash = "aea87264801b0f0f0e705666c7ba21c28e69cd926c3f7885ce77274b769d862e"
 metafile = true
