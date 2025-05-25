@@ -24,12 +24,12 @@ jobs:
         run: |
           mkdir release
           cd multimc
-          zip -r ../release/btdevcraft.zip instance.cfg mmc-pack.json server-icon.png .minecraft/
+          zip -r ../release/BTDevcraft.zip instance.cfg mmc-pack.json server-icon.png .minecraft/
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.RELEASE_TAG }}
           name: Release ${{ env.RELEASE_TAG }}
-          files: release/btdevcraft.zip
+          files: release/BTDevcraft.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

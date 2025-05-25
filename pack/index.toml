@@ -136,11 +136,6 @@ hash = "88e8ef3ce5d93ae6cd1a26bd2ebdd063a92b4899742710242d6d3e6f73f32e75"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "19c0c4ff654ed408f0bf046203ccc0d4938da423dbb3b15d6ddf6ed5666c7b2e"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0604fc30160dcb9604c90e81877f7576c16d6e46ebf06d3421a5e916616dad5c"
 metafile = true
