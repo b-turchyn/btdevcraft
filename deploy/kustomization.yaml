@@ -4,4 +4,4 @@ resources:
 configMapGenerator:
   - name: nginx-static-files
     files:
-      - ../nginx-files
+      - nginx-files/
