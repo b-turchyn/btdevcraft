@@ -1,0 +1,7 @@
+resources:
+  - base/web.yaml
+
+configMapGenerator:
+  - name: nginx-static-files
+    fileSources:
+      - ../nginx-files
