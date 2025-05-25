@@ -1,7 +1,13 @@
-name = "litematica"
-filename = "litematica-fabric-1.21-0.18.999-sakura.29.jar"
+name = "Litematica"
+filename = "litematica-fabric-1.21.5-0.22.1.jar"
+side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-sakura.29/litematica-fabric-1.21-0.18.999-sakura.29.jar"
-hash-format = "sha256"
-hash = "0c78fc6c0aac5892aa067c23466cf2a9180e51fc26b82738bf49751fb40ca268"
+url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/ZIFjKvzv/litematica-fabric-1.21.5-0.22.1.jar"
+hash-format = "sha1"
+hash = "e157afa771fe8f959d689d73463556db7fac76fb"
+
+[update]
+[update.modrinth]
+mod-id = "bEpr0Arc"
+version = "ZIFjKvzv"
