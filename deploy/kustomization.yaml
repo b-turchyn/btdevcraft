@@ -1,5 +1,5 @@
 resources:
-  - base/web.yaml
+  - web.yaml
 
 configMapGenerator:
   - name: nginx-static-files
