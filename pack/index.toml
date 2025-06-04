@@ -81,11 +81,6 @@ hash = "a1eb10ab506d630664e42b1ee55ca93ab9fdc8456ab845a8fb32ab67bc8ba436"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "91ed92cfe978fb0f4e217b428ee12a71252e4089d996391aab4e18ca916201c6"
-metafile = true
-
-[[files]]
 file = "mods/ledger.pw.toml"
 hash = "1be14e6e91591191adf6c36f11e3ecb8450862031dd019349274de22eca09a2a"
 metafile = true
