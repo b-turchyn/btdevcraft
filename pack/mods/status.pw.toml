@@ -1,13 +1,13 @@
 name = "Status"
-filename = "status-fabric-1.21.5-1.0.8.jar"
+filename = "status-fabric-1.21.8-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b93awgkg/versions/xGzIBi5L/status-fabric-1.21.5-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/b93awgkg/versions/bRAzq46I/status-fabric-1.21.8-1.0.8.jar"
 hash-format = "sha1"
-hash = "41d5e4f092d6929c0e7375348d8b0fed528da476"
+hash = "d041db9d388c1701dd9d67ade674df7b13820e66"
 
 [update]
 [update.modrinth]
 mod-id = "b93awgkg"
-version = "xGzIBi5L"
+version = "bRAzq46I"
