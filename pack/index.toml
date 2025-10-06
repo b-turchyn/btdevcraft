@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "d753fa4af1a2e33aec48f20690d376ce297b2da0509496602d14cb4d8d7b2b09"
+hash = "f62aff8c5dfa82c632d4b39c3071ef8cbe686da76563f15e73a22ea229e372fc"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "997a2c623c633ab09585d78d73357dd8bf3f5403899b30bdd4599ddbea0a3fb2"
+hash = "e95d1e391cf937ff6cce6700c4038ea26a534119e8c1989bd07f804d14759a68"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "979910eb08666fb5dd62ab5703c369110b9d6a22288bc0506b3830c1fefeef28"
+hash = "a65b90cdafe767d0dc6d57e0634a5b01f60a8b3023197d4c4df37fd7238fdd86"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cc981500c0a67706d7333bd0c25c7c4ae832e7128d3064cd5de0ab64a98eae1b"
+hash = "95dc0cb5d67fba2a8da58eb8081ba3b9ab19fbf10d7ff03c757f7294a99c6fd6"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ef5b990499a2223875dd6151d6a254ed2d5fed98d8f2e4038a2f0b5a8a9e2b54"
+hash = "f02516de5db71cdfc9b8550fecb2c4504efd9d5ffdebe77b57c0c0fa472554a3"
 metafile = true
 
 [[files]]
