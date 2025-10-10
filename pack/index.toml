@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a65b90cdafe767d0dc6d57e0634a5b01f60a8b3023197d4c4df37fd7238fdd86"
+hash = "6f52f708cf28a7f5d4153bfce7842f88b0f3c4034af1b95aa2ff67f231bfee42"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "e6d9e6018eb63a40093eb9ae652ab621bb13355564caf991d29655fae191f20a"
+hash = "418ff0cbc8e8f7fc91476b22c0f3950fbf811de4e3170d447859c0d439f36679"
 metafile = true
 
 [[files]]
@@ -141,13 +141,23 @@ hash = "dc30f7a4d092622ccc8cecdbd44eddef622561c4b733c15683e6b0f9fec3b90f"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "9742c78db12a975152cac89039259225545e7045dfb07c7a67fa870d43c52b6e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b98db18ef7e6988c8c9989e8e30d41663bb3e15b85114b06524012d593051312"
+hash = "c2f11a7227d4f2fb5aaacb95c7a05af157bce1586719228d52eaf77b64d8abde"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "436f18feec4972f76c70f374bc958ec5bc28b97f897b1b69a3241fbbe33821d5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f02516de5db71cdfc9b8550fecb2c4504efd9d5ffdebe77b57c0c0fa472554a3"
+hash = "d7a049ca83e2b59f08f4511f968d9aed2dc1e850b7a553fa42592815a7117224"
 metafile = true
 
 [[files]]

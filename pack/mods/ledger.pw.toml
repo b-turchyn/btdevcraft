@@ -1,13 +1,13 @@
 name = "Ledger"
-filename = "ledger-1.3.13.jar"
+filename = "ledger-1.3.13-fix.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/Dcmwp5wF/ledger-1.3.13.jar"
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/52ev59ef/ledger-1.3.13-fix.jar"
 hash-format = "sha1"
-hash = "2325b4928288dfb5f909728cf3539eebe6ef0ab2"
+hash = "112b0f02d55c845c6490bb20f56a3ee97647776c"
 
 [update]
 [update.modrinth]
 mod-id = "LVN9ygNV"
-version = "Dcmwp5wF"
+version = "52ev59ef"
