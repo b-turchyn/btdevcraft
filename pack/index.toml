@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "802720b446f815e0b50bb44b773b0dccf465e553959337fa9582a6809b08fe05"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "e80c6652b75192f5823cd725d1ef079e1d30b9df2fd655134a31b781c9c86068"
 metafile = true
