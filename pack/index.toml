@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "72cf31802db70a8715be470fd474b7aa2fea521b23597de59e0d570eef4e4faa"
+hash = "04fa83c861f7523d8a0236b900e12796798a666034705bfecf7166f561fca535"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0b9da297ca7689085968efd92152b937dd204405230d8cf0c4845c1c90ef1ec8"
+hash = "0e0970dafc9680fba4dc73434baad6aa7dee91ab4994f33b2493ea5b4c59931d"
 metafile = true
 
 [[files]]
