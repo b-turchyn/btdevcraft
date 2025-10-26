@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "10e69900a66c740ac90dc55be8ba786b87930676293382d791c0991e06dde574"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "e80c6652b75192f5823cd725d1ef079e1d30b9df2fd655134a31b781c9c86068"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "320a468830815fcccd4ddcb9db09826123566d451c176163fc59ba8ba33798b7"
+hash = "8b2715d91ca25f7b84d7307ce0e9e17835d5bd0de54baa4d72350405ec7d7291"
 metafile = true
 
 [[files]]
@@ -27,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ee95b9cac54c77a19e28f5f1941c45786f65187aae8231a0461fb126b91a7e0e"
+hash = "503bc6d2a0622fd0bdf9198bc2d7301cae48906170e6bf6ab50d7c70d6da80c1"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c6a8f323209d41729d2fffebeefccfa0e2642df37a6034475e04b80992c3d9c4"
+hash = "1268e1ad1c8c621363b5656ccced79480322a011342b4985ff5471e65a92b8cd"
 metafile = true
 
 [[files]]
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
+hash = "44ce91936136fb30c08b2f062e6d92493f1f2cc5a526a8039b54d1ae3f61279c"
 metafile = true
 
 [[files]]
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "f3ab72cbcde6d68e7056a72f2ada951d870fbc6752badb28dfeb694eb9fa23f1"
+hash = "b133ebe49a64edd8eb37dd4a5b66c58532648577e52562b58d7c889741a4cc49"
 metafile = true
 
 [[files]]
@@ -122,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "08631c8fe36286eafe1f1a42539316785a62e2b9b03625c0ccd4abf6342fde6b"
+hash = "3aac9c45822ac00fdb0f2b834e0020af0c78a559681540e25af8c67bbca3cc8d"
 metafile = true
 
 [[files]]
