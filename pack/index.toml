@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "10e69900a66c740ac90dc55be8ba786b87930676293382d791c0991e06dde574"
+hash = "ed0d8962bb83ab9d3eeac747c0cef104c4dbcd62d0caecf9230a1ba24fa313a1"
 metafile = true
 
 [[files]]
@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8b2715d91ca25f7b84d7307ce0e9e17835d5bd0de54baa4d72350405ec7d7291"
+hash = "a35f649e0dca7ffaaa58146f3feb0c1708c49d5fee6609e54065f11ec91254ca"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5fae7bac63ec0c58b1b7746246e34781682f9db22de95e53e02b0581757a1af5"
+hash = "b2103de7f3d13a7b7868890afd358e51f93bea4914e226fc0fbe53bdb84ff7e8"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "503bc6d2a0622fd0bdf9198bc2d7301cae48906170e6bf6ab50d7c70d6da80c1"
+hash = "f6cd74197dcfcc06faf2c75aafabf384296e841e5456de54550264fe86229dc5"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7b636a149f6ff5b2858e4b7fcf87289fdbe9c3f2a256b2b5003876990c2f9cd0"
+hash = "7286129334ad60fb0e9d5f99ff38fc4fa3073e03c0f7051f5917adc3abea9efc"
 metafile = true
 
 [[files]]
