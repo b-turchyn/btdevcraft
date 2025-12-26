@@ -1,0 +1,13 @@
+name = "Coord Finder"
+filename = "coordfinder-fabric-1.21.10-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kPkTtp4N/versions/7qLQenlv/coordfinder-fabric-1.21.10-1.1.0.jar"
+hash-format = "sha1"
+hash = "8e9f6a9fce076723957ca08d373dadf3d6097cbe"
+
+[update]
+[update.modrinth]
+mod-id = "kPkTtp4N"
+version = "7qLQenlv"

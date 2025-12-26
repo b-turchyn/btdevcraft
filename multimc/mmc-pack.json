@@ -1,1 +1,1 @@
-{"components":[{"dependencyOnly":true,"uid":"org.lwjgl3","version":"3.3.3"},{"uid":"net.minecraft","version":"1.21.10"},{"dependencyOnly":true,"uid":"net.fabricmc.intermediary","version":"1.21.10"},{"uid":"net.fabricmc.fabric-loader","version":"0.17.3"}],"formatVersion":1}
+{"components":[{"dependencyOnly":true,"uid":"org.lwjgl3","version":"3.3.6"},{"uid":"net.minecraft","version":"1.21.11"},{"dependencyOnly":true,"uid":"net.fabricmc.intermediary","version":"1.21.11"},{"uid":"net.fabricmc.fabric-loader","version":"0.18.4"}],"formatVersion":1}
