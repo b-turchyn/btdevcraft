@@ -31,6 +31,11 @@ hash = "6b408e7b83e9b769fcafe9216c6f6a528d8930c6d34f7984a9e42119b5ac7d44"
 metafile = true
 
 [[files]]
+file = "mods/coord-finder.pw.toml"
+hash = "3674652e96f30aa8d81d9d75ecaf0ca50c0f8938099a0a59f6c56f4ff4ffae17"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "64208a61918617d47a29f6c6b3366f3769ea9815cb7d52c93ca008983d930c97"
 metafile = true
