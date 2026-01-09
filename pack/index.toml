@@ -189,3 +189,8 @@ metafile = true
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "853e528c1f73b33360cc5888e48f7bcb3836a09c0a8903679e143d00995595f1"
 metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "843e6dac721e85a33cca6aebde45af0c918819024dcde4a402cdcec9f89f007d"
+metafile = true
