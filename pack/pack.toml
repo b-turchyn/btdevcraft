@@ -1,16 +1,16 @@
-name = "BTDevcraft 4.0"
+name = "BTDevcraft 4.3"
 author = "BT"
-version = "4.1.0"
+version = "4.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d35e53b6c1496036c161a24ed26f0ccb3d6db6ea81b70547d6cd4607b5516a09"
+hash = "84f86e9940727a88044f6352fd33dee2c47cc2b380529426557bad6e6bd7c2ff"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.10"
+fabric = "0.19.3"
+minecraft = "26.2"
 
 [options]
-acceptable-game-versions = ["1.21.9", "1.21.10"]
+acceptable-game-versions = ["26.2"]
