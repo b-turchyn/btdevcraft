@@ -1,0 +1,30 @@
+curl 'https://vanillatweaks.net/assets/server/sharecode.php' \
+        --data-raw 'data=%7B%22type%22%3A%22datapacks%22%2C%22version%22%3A%2226.3%22%2C%22selected%22%3A%22%7B%5C%22decorative-cosmetic%5C%22%3A%5B%5C%22player+head+drops%5C%22%2C%5C%22armor+statues%5C%22%2C%5C%22silence+mobs%5C%22%2C%5C%22more+mob+heads%5C%22%5D%2C%5C%22convenience%5C%22%3A%5B%5C%22double+shulker+shells%5C%22%2C%5C%22multiplayer+sleep%5C%22%2C%5C%22fast+leaf+decay%5C%22%5D%2C%5C%22informative%5C%22%3A%5B%5C%22track+raw+statistics%5C%22%2C%5C%22afk+display%5C%22%2C%5C%22durability+ping%5C%22%2C%5C%22nether+portal+coords%5C%22%2C%5C%22real+time+clock%5C%22%2C%5C%22villager+workstation+highlights%5C%22%5D%2C%5C%22gameplay-changes%5C%22%3A%5B%5C%22anti+enderman+grief%5C%22%5D%7D%22%7D'
+
+data=%7B%22type%22%3A%22craftingtweaks%22%2C%22version%22%3A%2226.3%22%2C%22selected%22%3A%22%7B%5C%22quality-of-life%5C%22%3A%5B%5C%22universal+dyeing%5C%22%5D%7D%22%7D
+Decorative-cosmetic
+
+    player head drops
+    armor statues
+    silence mobs
+    more mob heads
+
+Convenience
+
+    double shulker shells
+    multiplayer sleep
+    fast leaf decay
+
+Informative
+
+    track raw statistics
+    real time clock
+    nether portal coords
+    durability ping
+    afk display
+
+Gameplay Changes
+
+    anti-enderman grief
+
+
